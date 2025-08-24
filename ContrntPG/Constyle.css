@@ -1,14 +1,15 @@
 @font-face {
-    font-family: font;
-    src: url(/font/NeueHaasDisplayMediu.ttf);
+    font-family: smallfont;
+    src: url(/font//NeueHaasDisplayThin.woff2);
 }
 @font-face {
-    font-family: smallfont;
-    src: url(/font/NeueHaasDisplayThin.ttf);
+    font-family: font;
+    src: url(/font/NeueHaasDisplayMediu.woff2);
 }
+
 @font-face {
     font-family: boldfont;
-    src: url(/font/NeueHaasDisplayBlack.ttf);
+    src: url(/font/NeueHaasDisplayBlack.woff2);
 }
 
 
